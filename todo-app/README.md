@@ -22,4 +22,4 @@ https://69996de309f37a0008f33e3c--deft-entremet-ddf163.netlify.app/
 
 ## 📸 Proje Görseli
 
-![Todo App Screenshot](Ekrangörüntüsü2026-02-15181343.png)
+![Todo App Screenshot](Ekran görüntüsü 2026-02-15 181343.png)
