@@ -19,3 +19,7 @@ Bu proje React ve Vite kullanılarak geliştirilmiş basit bir Todo (Yapılacakl
 ## 🌍 Canlı Demo
 
 https://69996de309f37a0008f33e3c--deft-entremet-ddf163.netlify.app/
+
+## 📸 Proje Görseli
+
+![Todo App Screenshot](Ekrangörüntüsü2026-02-15181343.png)
